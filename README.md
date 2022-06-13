@@ -1,12 +1,12 @@
-# ✨Welcome to Supakarn's github profile✨
+# ✨Welcome to my GitHub profile✨
 
-![Supakarn's GitHub stats](https://github-readme-stats.vercel.app/api?username=o-FuYuMi-o&show_icons=true&count_private=true&theme=dracula)
+![Supakarn's GitHub stats](https://github-readme-stats.vercel.app/api?username=supakarn-t&show_icons=true&count_private=true&theme=dracula)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=o-FuYuMi-o&&layout=compact&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=supakarn-t&layout=compact&theme=dracula)
 
 -----
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=o-FuYuMi-o)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=supakarn-t)
 
 
 
