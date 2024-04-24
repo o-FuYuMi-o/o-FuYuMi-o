@@ -4,12 +4,9 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=supakarn-t&layout=compact&theme=dracula)
 
------
+---
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=supakarn-t)
-
-
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=supakarn-t&label=Profile%20views&color=52bdff&style=flat" alt="supakarn-t" /> </p>
 
 <!--
 **o-FuYuMi-o/o-FuYuMi-o** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
