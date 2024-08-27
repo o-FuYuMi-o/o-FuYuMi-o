@@ -30,7 +30,7 @@
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="36" height="36" alt="TailwindCSS"/></a>
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
 <a href="https://mui.com/" target="_blank" rel="noreferrer">
@@ -107,7 +107,7 @@
         <img src="https://github-readme-stats.vercel.app/api?username=supakarn-t&show_icons=true&hide_border=true&count_private=true&title_color=38bdf8&text_color=ffffff&icon_color=7dd3fc&bg_color=22272e" alt="supakarn-t's GitHub stats" />
     </picture>
 </a>
-
+<br />
 <a href="http://www.github.com/supakarn-t">
     <picture>
         <source
@@ -121,7 +121,7 @@
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=supakarn-t&hide_border=true&stroke=ffffff&background=22272e&ring=38bdf8&fire=38bdf8&currStreakNum=ffffff&currStreakLabel=38bdf8&sideNums=ffffff&sideLabels=ffffff&dates=ffffff" />
     </picture>
 </a>
-
+<br />
 <a href="https://github.com/supakarn-t" align="left">
     <picture>
         <source
@@ -154,8 +154,7 @@
 
 <!--
 <a href="https://golang.org" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/>
-</a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" />
-</a>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/></a>
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="36" height="36" alt="TailwindCSS"/></a>
 -->
